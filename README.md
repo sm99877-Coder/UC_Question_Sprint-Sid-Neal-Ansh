@@ -1,5 +1,5 @@
 # UC Data Challenge — Methodology & Workflow
-
+# Link to streamlit dashboard: https://uc-data-dashboard-szqjxtrzepcvsf6vkuspf5.streamlit.app/
 This repository contains cleaned UC admissions data and scripts for exploratory analysis and modeling. The README documents the data sources, analysis rules, reproducible workflow, and best practices we used to produce robust, auditable results.
 
 ---
