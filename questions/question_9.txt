@@ -1,1 +1,1 @@
-
+Regarding UC system reach, 244 distinct California public high schools in the dataset sent at least one freshman applicant to a UC campus for the Fall 2025 cycle. Because the underlying data lists up to 10 rows per high school—one for each individual UC campus alongside a systemwide summary—we deduplicated the records to count individual schools rather than raw data entries. Every public high school represented in this Bay Area dataset recorded application activity during the 2025 admissions cycle, with no schools fully redacted or reporting zero applicants.
