@@ -1,3 +1,5 @@
+#Link to dashboard: https://uc-data-dashboard-szqjxtrzepcvsf6vkuspf5.streamlit.app/
+
 """
 UCLA vs. Berkeley — Admit Rate, Fall 2020-2025
 Run with: streamlit run admissions_dashboard.py
